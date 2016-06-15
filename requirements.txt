@@ -1,0 +1,9 @@
+robotframework
+urllib
+json
+requests
+robotframework-databaselibrary
+robotframework-httplibrary
+PyMySQL
+pyodbc
+xlrd
